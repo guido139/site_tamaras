@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", loadPartials);
 function loadPartials() {
 
 
-  $('#ftco-navbar-container').load('partials/ftco-navbar-container.html')
+  $('#ftco-navbar-topbar-container').load('partials/ftco-navbar-topbar-content.html')
 
   // $('#header-navbar').load('partials/header-navbar.html')
 
