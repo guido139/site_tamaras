@@ -1,0 +1,12 @@
+1_cacho_precoce.jpg
+2_tamareira_cachos_verdes.jpg
+3_tamareira_cachos_laranja.jpg
+4_tamareira_cachos_amarelos.jpg
+5_flores_masculinas_nacendo.jpg
+6_flor_feminina.jpg
+7_flor_masculina.jpg
+8_flor_masculina_e_abelhas.jpg
+8_tamaras_roxas.jpg
+9_insetos_comendo_tamara.jpg
+9x_pequeno_cacho.jpg
+lista.txt
