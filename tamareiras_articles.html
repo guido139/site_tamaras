@@ -138,7 +138,9 @@
   <script src="js/partials.js"></script>
 
   <script type="text/javascript">
-    ativaMenu('#menu_opc_tamareiras');
+    window.onload = function(){
+      document.getElementById("menu_opc_tamareiras").className += " active";
+    }
   </script>
 
   </body>
